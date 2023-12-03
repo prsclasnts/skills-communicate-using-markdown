@@ -6,3 +6,7 @@
 ###### Este é o limite!
 
 ![Image of Grinchtocat](https://octodex.github.com/images/grinchtocat.gif)
+
+``` javascript
+const saudacao = "Olá, meu povo!";
+```
