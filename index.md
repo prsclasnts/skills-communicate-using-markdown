@@ -10,3 +10,7 @@
 ``` javascript
 const saudacao = "Olá, meu povo!";
 ```
+- [x] Learn how to communicate using Markdown
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
